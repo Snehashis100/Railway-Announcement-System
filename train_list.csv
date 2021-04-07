@@ -1,0 +1,3 @@
+train_no,train_name,from,to,via,platform
+1 4 3 1 5,intercity express,bareilly,Delhi,Ghaziabad,3
+1 4 3 1 6,amritsar howrah mail,Amritsar,Howrah,Lucknow,7
